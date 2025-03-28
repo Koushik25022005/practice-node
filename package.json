@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "main": "01-intro.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "echo \"Error: no start specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "keywords": [],
   "description": "",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "lodash": "^4.17.21",
     "nodemon": "^3.1.7"
   }
