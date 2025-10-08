@@ -31,5 +31,5 @@ console.log('starting the next one')
 
 //If we dont use the utf coding, then it will load a buffer
 //Asynchororus code can do mulitple tasks at the same time
-/*we con optimize this code uaing promises as well async await*/
+/*we con optimize this code using promises as well async await*/
 //Http module is used to set up a web server

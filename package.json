@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "01-intro.js",
   "scripts": {
-    "start": "echo \"Error: no start specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
